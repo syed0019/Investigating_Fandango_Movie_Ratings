@@ -1,2 +1,2 @@
 # Investigating_Fandango_Movie_Ratings
-Analyzed the recent movie ratings data at the Fandango website to determine the change in movie ratings
+In this project, we analyzed the recent movie ratings data at the [Fandango](https://www.fandango.com/) website, an online movie ratings aggregator, to determine whether there has been any change in Fandango's rating system after Hickey's analysis. Walt Hickey was a data journalist who analyzed movie ratings data in October 2015, and found strong evidence to suggest that Fandango's rating system was biased and dishonest. He published his analysis in the article which is available [here](https://fivethirtyeight.com/features/fandango-movies-ratings/).
